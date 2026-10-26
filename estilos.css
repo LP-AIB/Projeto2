@@ -1,0 +1,52 @@
+﻿/* ======================================================
+   ESTILOS PRINCIPAIS - PROJETO 2 (Cores por Nome)
+   ====================================================== */
+
+/* Cor de fundo e fonte geral do site */
+body {
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    color: black;
+    margin: 20px;
+}
+
+/* Formatação dos Títulos */
+h1 {
+    color: navy;
+    font-family: 'Georgia', serif;
+}
+
+h2 {
+    color: steelblue;
+    font-family: 'Georgia', serif;
+}
+
+h3 {
+    color: darkslategray;
+}
+
+/* Classe Destaque para o parágrafo especial */
+.destaque {
+    background-color: lightgray;
+    border-left: 4px solid dodgerblue;
+    padding: 12px;
+    margin: 15px 0;
+}
+
+
+/* ======================================================
+   MECANISMO DE AVALIAÇÃO METACOGNITIVA (RESPOSTAS)
+   ====================================================== */
+
+/*
+1. Desafio Técnico:
+   A regra CSS mais difícil de aplicar foi a criação do bordo lateral na classe .destaque 
+   e o ajuste do espaçamento (padding e margin) para que o texto ficasse bem enquadrado sem colar às margens.
+
+2. Correção de Sintaxe:
+   O erro mais comum que detetei ao testar no browser foi esquecer-me de fechar as chavetas ({}) 
+   nas regras CSS e a falta de pontos e vírgulas (;) no final das propriedades.
+
+3. Autoria:
+   O atributo 'href' serve para indicar o endereço ou destino para onde o utilizador será redirecionado ao clicar na hiperligação.
+*/
